@@ -20,9 +20,6 @@
       "get": {
         "summary": "Get current user",
         "description": "Returns the profile of the authenticated user.",
-        "x-mint": {
-          "groups": ["logged-in"]
-        },
         "responses": {
           "200": {
             "description": "The current user",
@@ -44,9 +41,6 @@
       "get": {
         "summary": "List projects",
         "description": "Returns the projects the authenticated user can access.",
-        "x-mint": {
-          "groups": ["logged-in"]
-        },
         "parameters": [
           {
             "name": "limit",
@@ -78,9 +72,6 @@
       "post": {
         "summary": "Create project",
         "description": "Creates a new project owned by the authenticated user.",
-        "x-mint": {
-          "groups": ["logged-in"]
-        },
         "requestBody": {
           "required": true,
           "content": {
