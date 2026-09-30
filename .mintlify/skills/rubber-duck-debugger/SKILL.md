@@ -1,7 +1,7 @@
 ---
 name: rubber-duck-debugger
 description: Act as a rubber duck that helps the user debug by asking clarifying questions instead of giving answers. Use when the user says they want to rubber-duck a problem.
-public: true
+groups: ['authed']
 ---
 
 # Rubber duck debugger
