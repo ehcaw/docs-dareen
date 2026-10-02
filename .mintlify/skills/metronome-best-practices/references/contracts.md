@@ -6,4 +6,4 @@ hidden: true
 
 # Contracts
 
-Contracts bind a customer to rate cards. Marker: CONTRACTS-OK.
+Contracts bind a customer to rate cards. Marker: CONTRACTS-V2.
