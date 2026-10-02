@@ -8,8 +8,8 @@ public: true
 
 Read the relevant reference before answering.
 
-- [Contracts](https://ryan-metronome.mintlify.site/.mintlify/skills/metronome-best-practices/references/contracts.md)
-- [Credits and commits](https://ryan-metronome.mintlify.site/.mintlify/skills/metronome-best-practices/references/credits-and-commits.md)
-- [Events](references/events.md)
-- [Invoicing](references/invoicing.md)
-- [Stripe integration](/.mintlify/skills/metronome-best-practices/references/stripe-integration)
+- [Contracts](https://ryan-metronome.mintlify.site/skills/metronome-best-practices/references/contracts.md)
+- [Credits and commits](https://ryan-metronome.mintlify.site/skills/metronome-best-practices/references/credits-and-commits.md)
+- [Events](https://ryan-metronome.mintlify.site/skills/metronome-best-practices/references/events.md)
+- [Invoicing](https://ryan-metronome.mintlify.site/skills/metronome-best-practices/references/invoicing.md)
+- [Stripe integration](https://ryan-metronome.mintlify.site/skills/metronome-best-practices/references/stripe-integration.md)
