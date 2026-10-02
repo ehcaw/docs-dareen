@@ -21,6 +21,14 @@
       {
         "group": "API reference",
         "openapi": "api-reference/openapi.json"
+      },
+      {
+        "group": "Skill references",
+        "public": true,
+        "hidden": true,
+        "pages": [
+          "skill-refs/pirate-phrasebook"
+        ]
       }
     ],
     "global": {
